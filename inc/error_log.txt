@@ -1,0 +1,12 @@
+[30-May-2015 22:13:46 UTC] PHP Warning:  require_once(config/config.php): failed to open stream: No such file or directory in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 38
+[30-May-2015 22:13:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'config/config.php' (include_path='.::../src/') in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 38
+[30-May-2015 22:14:07 UTC] PHP Notice:  Undefined variable: operador in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/src/ado/criterios.php on line 18
+[30-May-2015 22:14:07 UTC] PHP Notice:  Undefined variable: clientes in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 101
+[30-May-2015 22:14:07 UTC] PHP Fatal error:  Call to a member function getEnderecoCobranca() on a non-object in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 101
+[30-May-2015 22:16:05 UTC] PHP Notice:  Undefined variable: operador in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/src/ado/criterios.php on line 18
+[30-May-2015 22:16:05 UTC] PHP Notice:  Undefined variable: clientes in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 101
+[30-May-2015 22:16:05 UTC] PHP Fatal error:  Call to a member function getEnderecoCobranca() on a non-object in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 101
+[30-May-2015 22:16:50 UTC] PHP Notice:  Undefined variable: clientes in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 101
+[30-May-2015 22:16:50 UTC] PHP Fatal error:  Call to a member function getEnderecoCobranca() on a non-object in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 101
+[30-May-2015 19:17:26 America/Recife] PHP Notice:  Undefined variable: clientes in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 103
+[30-May-2015 19:17:26 America/Recife] PHP Fatal error:  Call to a member function getEnderecoCobranca() on a non-object in /Users/fernandopontes/Sites/dev/php/cursophp/php/oo-clientes-db/inc/cliente_dados.php on line 103
